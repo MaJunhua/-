@@ -1,0 +1,28 @@
+ a img{
+    width: 100%;
+}
+
+#main-div{
+    margin:3%;
+}
+
+.list-box{
+    margin-bottom: 8%;
+    background-color: white;
+    position: relative;
+}
+
+.decorate-div{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.decorate-div img{
+    width: 15%;
+}
+
+span{
+    text-align: left;
+}
